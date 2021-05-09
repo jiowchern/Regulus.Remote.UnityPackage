@@ -1,0 +1,7 @@
+{
+    "name": "com.regulus-studio.remote",
+    "displayName": "Regulus Remote UnityPackage",
+    "version": "0.0.1",
+    "unity": "2020.3",
+    "description": "Regulus Remote UnityPackage."
+}
